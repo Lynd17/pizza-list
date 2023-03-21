@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-To specify an image in the "Image" field, you need to enter "Pizza-1.jpg", there are 6 images in total
+To specify an image in the "Image" field, you need to enter "Pizza-1.jpg", for example, there are 6 images in total
 
 ## Available Scripts
 
